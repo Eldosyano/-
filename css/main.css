@@ -40,7 +40,7 @@ header button:hover{
 /*wrap------------------------------------------------------------------*/
 .wrap{
     padding-top: 100px;
-    background-image: url(/img/Rectangle(6).png);
+    background-image: url(/img/Rectangle\ \(6\).png);
     background-size: cover;
     background-repeat: no-repeat;
     padding-bottom: 40px;
@@ -126,7 +126,7 @@ header button:hover{
         padding: 10px 25px;
     }
     .back{
-        background-image: url(/img/Rectangle(6).png);
+        background-image: url(/img/Rectangle\ \(6\).png);
         background-size: contain;
         background-repeat: no-repeat;
         padding-bottom: 150px;
